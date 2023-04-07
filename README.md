@@ -1,2 +1,3 @@
-# -CodeClause-Churn_Prediction
+# CodeClause-Churn_Prediction
 Churn Prediction in Telecom Industry using Logistic Regression
+
